@@ -1,0 +1,18 @@
+{
+  "name": "klass",
+  "repo": "nsisodiya/klass",
+  "version": "1.0.0",
+  "main": "klass",
+  "keywords": [
+    "javascript",
+    "oop"
+  ],
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "description": "klass, framework for oop in javascript, inspired from https://github.com/ded/klass",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nsisodiya/klass.git"
+  }
+}
+
