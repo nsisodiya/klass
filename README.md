@@ -1,7 +1,7 @@
 klass
 =====
 
-Simple JavaScript Prototype Inheritance  &amp; Expressive Classes
+Simple JavaScript Prototype Inheritance  &amp; Expressive Classes, fully inspired by https://github.com/ded/klass
 
 Example
 ==========
@@ -55,3 +55,8 @@ narendra.eat().drive().office();
 var chetan = new Manager(24, "Chetan", "Doctor", "Research");
 chetan.eat().drive().office().presentation();
 ```
+
+demo
+======
+http://jsfiddle.net/nsisodiya/U6yHL/
+
